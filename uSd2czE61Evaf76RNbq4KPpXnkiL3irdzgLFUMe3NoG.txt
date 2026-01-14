@@ -1,0 +1,2 @@
+vorter,DjM47hJzwQmsXwRRhsEWsjRVt4vXfEmZTDAP1zhM6XKF,3,FISH_USDC
+vorter,2exTq4dyaUa1mwXytfMSZ9r5BAcZ98L2zawBQDMfaU9o,3,SOL_USDC
